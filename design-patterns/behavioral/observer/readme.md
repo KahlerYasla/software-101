@@ -1,0 +1,1 @@
+-   The Observer pattern is a behavioral
